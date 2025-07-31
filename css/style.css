@@ -1,0 +1,16 @@
+/* input[type="date"]:before {
+	content: attr(placeholder);
+	color: grey;
+	text-align: left;
+	margin-right: 10px;
+
+}
+
+input[type="date"]:focus:before {
+	content: none;
+} */
+#block-sort {
+	display: flex;
+	gap: 30px;
+
+}
